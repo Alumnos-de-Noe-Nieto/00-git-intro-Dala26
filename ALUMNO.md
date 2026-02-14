@@ -25,3 +25,7 @@ Reflexión final:
 Gracias a esta clase aprendí como usar git que es una herramienta que será útil al momento de entrar en un trabajo o al hacer un proyecto personal, es una herramienta que ayuda a manetener un control sobre el proyecto en el que estas trabajando y útil al momento de ver lo que cada persona a hecho, en conclusión git es una herramienta indispensable para cualquier programador
 
 fecha: 13/02/26
+
+repositorio de ejercicios:
+Mi-Proyecto-Practica
+https://github.com/Dala26/Mi-Proyecto-Practica/tree/main
